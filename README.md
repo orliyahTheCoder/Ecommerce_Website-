@@ -41,8 +41,7 @@ A full-stack, modern e-commerce application built with Next.js, Sanity CMS, and 
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/orliyahTheCoder/your-ecommerce-repo.git
-cd your-ecommerce-repo
+git clone https://github.com/orliyahTheCoder/Ecommerce_Website-.git
 ````
 
 ### 2. Install Dependencies
