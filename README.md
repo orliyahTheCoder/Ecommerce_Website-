@@ -2,11 +2,11 @@
 
 A full-stack, modern e-commerce application built with Next.js, Sanity CMS, and Stripe for secure payments. Features a seamless shopping experience from browsing to checkout.
 
-[![Live Demo](https://img.shields.io/badge/Demo-Live%20Site-green?style=for-the-badge&logo=vercel)](https://your-store.vercel.app)
+[![Live Demo](https://img.shields.io/badge/Demo-Live%20Site-green?style=for-the-badge&logo=vercel)](https://ecommerce-sanity-tawny.vercel.app/)
 [![Next.js](https://img.shields.io/badge/Next.js-14-black?style=for-the-badge&logo=next.js)](https://nextjs.org/)
 [![Stripe](https://img.shields.io/badge/Stripe-Payments-635BFF?style=for-the-badge&logo=stripe)](https://stripe.com)
 
-![E-Commerce S<img width="1280" height="1970" alt="screencapture-ecommerce-sanity-tawny-vercel-app-2025-08-26-13_29_32" src="https://github.com/user-attachments/assets/93e41864-a54d-4f39-8e19-9826fcc27e0f" />
+<img width="1280" height="1970" alt="screencapture-ecommerce-sanity-tawny-vercel-app-2025-08-26-13_29_32" src="https://github.com/user-attachments/assets/93e41864-a54d-4f39-8e19-9826fcc27e0f" />
 
 
 ## ✨ Features
